@@ -1,12 +1,13 @@
 
 import './App.css'
+import SelectArea from './components/SelectArea'
 
 function App() {
   
 
   return (
     <>
-      KantriBute-Challenge
+      <SelectArea />
     </>
   )
 }
